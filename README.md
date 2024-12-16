@@ -1,5 +1,5 @@
-
-## Clean-Wordlist-Tool
+# Clean-Wordlist-Tool
+A lightweight and efficient Bash script to clean and optimize wordlists by removing duplicates, noisy entries, and unwanted characters. This tool is perfect for ethical hackers and penetration testers looking to streamline their wordlist preparation process.
 
 ## Installation
 
